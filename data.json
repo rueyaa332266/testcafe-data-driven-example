@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John Heart",
+    "comment": "I love TestCafe!",
+    "resultText": "Thank you, John Heart!",
+    "passed": false
+  },
+  {
+    "name": "Olivia Peyton",
+    "comment": "TestCafe is awesome!",
+    "resultText": "Thank you, Olivia Peyton!",
+    "passed": false
+  }
+]
