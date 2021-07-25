@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://devexpress.github.io/testcafe/example",
+    "expected_title": "TestCafe Example Page"
+  },
+  {
+    "url": "https://testcafe.io",
+    "expected_title": "Cross-Browser End-to-End Testing Framework | TestСafe"
+  },
+  {
+    "url": "https://testcafe.io/documentation/402632/reference",
+    "expected_title": "Reference | Docs"
+  }
+]
